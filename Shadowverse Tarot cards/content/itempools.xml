@@ -1,0 +1,24 @@
+<ItemPools>
+    <Pool Name="treasure">  <!-- 宝箱房 -->
+        <Item Name="Governing Justice" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Raging Chariot" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Filling Temperance" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Filling Lovers" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Wandering Fool" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Revolving Wheel of Fortune" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Inspiring Strength" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Skybound Hanged Man" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+
+    <Pool Name="shop"> <!-- 商店 -->
+        <Item Name="Governing Justice" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Raging Chariot" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Filling Temperance" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Filling Lovers" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Wandering Fool" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Revolving Wheel of Fortune" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Inspiring Strength" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Skybound Hanged Man" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+
+</ItemPools>

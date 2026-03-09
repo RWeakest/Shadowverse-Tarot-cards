@@ -1,0 +1,10 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive name="Governing Justice" gfx="Governing_Justice.png" id="0" quality="3" tags="offensive summonable" description="Destiny"/>
+    <passive name="Raging Chariot" gfx="Raging_Chariot.png" id="1" quality="3" tags="nolostbr summonable" description="Ride On!"/>
+    <passive name="Filling Temperance" gfx="Filling_Temperance.png" id="2" quality="3" tags="nolostbr summonable" description="Desire"/>
+    <passive name="Filling Lovers" gfx="Filling_Lovers.png" id="3" quality="3" tags="nolostbr summonable" description="Love Me"/>
+    <passive name="Wandering Fool" gfx="Wandering_Fool.png" id="4" quality="3" tags="offensive summonable" description="The first page is from this place now"/>
+    <passive name="Revolving Wheel of Fortune" gfx="Revolving_Wheel_of_Fortune.png" id="5" quality="3" tags="offensive summonable" description="Make a wish"/>
+    <passive name="Inspiring Strength" gfx="Inspiring_Strength.png" id="6" quality="3" tags="offensive summonable" description="o((>w< ))o"/>
+    <passive name="Skybound Hanged Man" gfx="Skybound_Hanged_Man.png" id="7" quality="3" tags="offensive nogreed" description="Turn back!"/>
+</items>
